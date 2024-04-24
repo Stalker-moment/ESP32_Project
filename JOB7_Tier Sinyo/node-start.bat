@@ -1,0 +1,1 @@
+node-red C:\Users\Acer\Documents\Arduino\A. MIKRO2\JOB7_Tier Sinyo\node_modules\red.js -p 18807
